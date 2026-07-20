@@ -103,3 +103,7 @@ section {
     font-size:1.1rem;
 
 }
+#about p {
+    max-width: 750px;
+    color: #444;
+}
