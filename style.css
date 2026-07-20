@@ -106,4 +106,17 @@ section {
 #about p {
     max-width: 750px;
     color: #444;
+}#research ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+#research li {
+    border: 1px solid #d5d5d5;
+    padding: 8px 14px;
+    border-radius: 4px;
+    color: #444;
 }
