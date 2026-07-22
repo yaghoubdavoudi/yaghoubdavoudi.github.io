@@ -128,12 +128,29 @@ section {
     margin-top: 25px;
 }
 
+.work-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
 .work-type {
     font-size: 0.85rem;
     color: #666;
     text-transform: uppercase;
     letter-spacing: 1px;
-    margin-bottom: 10px;
+}
+
+.work-year {
+    font-size: 0.85rem;
+    color: #888;
+}
+
+.work-tags {
+    font-size: 0.9rem;
+    color: #777;
+    margin-bottom: 20px;
 }
 
 .work-card h3 {
